@@ -1,2 +1,1 @@
-# quizzler
-A mini quiz game
+In progress..
